@@ -1,0 +1,6 @@
+Pop.;Age;N;lower RL;upper RL;L-pU-LRL;U-pU-LRL;L-pU-URL;U-pU-URL;L-CI-LRL;U-CI-LRL;L-CI-URL;U-CI-URL;Test value;Critical value;P value;Mode;P;mu;Sigma;lambda
+1;male;18 - 22;13549;12.244;17.29;n.d.;n.d.;n.d.;n.d.;n.d.;n.d.;n.d.;n.d.;n.d.;n.d.;n.d.;14.85;0.7796;13.76726;1.28724;1
+2;female;18 - 22;12184;11.396;16.05;n.d.;n.d.;n.d.;n.d.;n.d.;n.d.;n.d.;n.d.;n.d.;n.d.;n.d.;13.82;0.8855;12.72313;1.18734;1
+3;all;18 - 22;25733;11.259;16.977;n.d.;n.d.;n.d.;n.d.;n.d.;n.d.;n.d.;n.d.;n.d.;n.d.;n.d.;14.09;NA;NA;NA;NA
+x
+no error

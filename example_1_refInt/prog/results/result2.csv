@@ -1,0 +1,4 @@
+,Pop.,Age,N,lower RL,upper RL,L-pU-LRL,U-pU-LRL,L-pU-URL,U-pU-URL,L-CI-LRL,U-CI-LRL,L-CI-URL,U-CI-URL,Test value,Critical value,P value,Mode,P,mu,Sigma,lambda
+1,male,18 - 22,1000,8.081,11.935,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,9.94,0.9663,9.0081,0.98299,1
+2,female,18 - 22,1000,8.213,12.31,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,10.21,1,2.30803,0.10324,0
+3,all,18 - 22,2000,8.122,12.074,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,9.91,NA,NA,NA,NA

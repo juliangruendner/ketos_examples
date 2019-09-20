@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "ketos_env_r",
+        "title": "R image",
+        "description": "Basic R datascience image",
+        "creator_id": 1,
+        "created_at": "2019-08-19T17:01:16.552596+00:00",
+        "updated_at": "2019-08-19T17:01:16.552596+00:00"
+    },
+    {
+        "id": 1,
+        "name": "example_1_hb_ref_intervals",
+        "container_id": "6ea5c6b176ede02250759ce355cccc984d26d6abcbe3c7309a11922a5a10ec02",
+        "container_name": "809fbdb9423a4b8dbe4680c9d3bd7086",
+        "status": "running",
+        "jupyter_port": "38385",
+        "jupyter_token": "00827120413c4175badc8a91035e5d7d",
+        "description": null,
+        "creator_id": 1,
+        "image_id": 1,
+        "created_at": "2019-08-19T17:24:29.315965+00:00",
+        "updated_at": "2019-09-19T18:42:18.924006+00:00"
+    },
+    {
+        "id": 3,
+        "environment_id": 1,
+        "ml_model_name": "mlmodel_1",
+        "name": " ",
+        "description": "hbValuesLocal",
+        "condition_refcode": null,
+        "condition_name": null,
+        "creator_id": 1,
+        "created_at": "2019-08-19T21:22:53.086500+00:00",
+        "updated_at": "2019-08-19T21:22:53.086500+00:00",
+        "feature_set_id": null
+    }
+]

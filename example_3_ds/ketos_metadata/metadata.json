@@ -1,0 +1,96 @@
+[
+    {
+        "id": 2,
+        "name": "ketos_env_ds",
+        "title": "DataSHIELD image",
+        "description": "DataSHIELD image",
+        "creator_id": 1,
+        "created_at": "2019-08-19T17:01:16.567323+00:00",
+        "updated_at": "2019-08-19T17:01:16.567323+00:00"
+    },
+    {
+        "id": 3,
+        "name": "example_3_DataSHIELD",
+        "container_id": "7fdf3f3c93f4c1596872d7c94dfa716f31869d7dd2008db6cdb4b07cfca4deb4",
+        "container_name": "ab1ffb3e81e24659ae21cc3060034a05",
+        "status": "running",
+        "jupyter_port": "44516",
+        "jupyter_token": "85897737c72e4e28a9d59ee244e0dc99",
+        "description": null,
+        "creator_id": 1,
+        "image_id": 2,
+        "created_at": "2019-08-19T17:26:16.803899+00:00",
+        "updated_at": "2019-09-19T18:42:12.314597+00:00"
+    },
+    {
+        "id": 2,
+        "environment_id": 3,
+        "ml_model_name": "mlmodel_1",
+        "name": " ",
+        "description": "datashield example",
+        "condition_refcode": null,
+        "condition_name": null,
+        "creator_id": 1,
+        "created_at": "2019-08-19T19:02:26.394967+00:00",
+        "updated_at": "2019-08-19T20:44:46.659862+00:00",
+        "feature_set_id": 3
+    },
+    [
+        {
+            "id": 77,
+            "resource": "Observation",
+            "parameter_name": "code",
+            "value": "800000011",
+            "name": "CellShape",
+            "output_value_path": "valueQuantity.value",
+            "description": null,
+            "creator_id": 1,
+            "created_at": "2019-08-19T12:32:55.567853+00:00",
+            "updated_at": "2019-08-19T12:32:55.567853+00:00"
+        },
+        {
+            "id": 78,
+            "resource": "Observation",
+            "parameter_name": "code",
+            "value": "800000012",
+            "name": "TumorClass",
+            "output_value_path": "valueQuantity.value",
+            "description": null,
+            "creator_id": 1,
+            "created_at": "2019-08-19T12:33:28.822574+00:00",
+            "updated_at": "2019-08-19T12:33:28.822574+00:00"
+        },
+        {
+            "id": 79,
+            "resource": "Observation",
+            "parameter_name": "code",
+            "value": "800000013",
+            "name": "CellThickness",
+            "output_value_path": "valueQuantity.value",
+            "description": null,
+            "creator_id": 1,
+            "created_at": "2019-08-19T12:34:10.962515+00:00",
+            "updated_at": "2019-08-19T12:34:10.962515+00:00"
+        },
+        {
+            "id": 76,
+            "resource": "Observation",
+            "parameter_name": "code",
+            "value": "800000014",
+            "name": "CellSize",
+            "output_value_path": "valueQuantity.value",
+            "description": null,
+            "creator_id": 1,
+            "created_at": "2019-08-19T12:31:50.200183+00:00",
+            "updated_at": "2019-08-19T12:40:18.550569+00:00"
+        }
+    ],
+    {
+        "id": 3,
+        "name": "dsBcEexample",
+        "description": null,
+        "creator_id": 1,
+        "created_at": "2019-08-19T12:34:43.471941+00:00",
+        "updated_at": "2019-08-19T12:34:43.471941+00:00"
+    }
+]

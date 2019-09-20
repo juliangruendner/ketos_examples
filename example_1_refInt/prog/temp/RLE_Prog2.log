@@ -1,0 +1,38 @@
+================================================================
+
+Data have been imported correctly. 
+
+================================================================
+
+================================================================
+
+either start date is not given or no information about date of analysis exists or choosed format/column for date or start date are not given correctly
+Program is running without considering start date. 
+
+================================================================
+
+================================================================
+
+either end date is not given or no information about date of analysis exists or choosed format/column for date or end date are not given correctly
+Program is running without considering end date 
+
+================================================================
+
+Program start: Thu Feb 14 16:59:44 2019 
+program end:   Thu Feb 14 17:00:14 2019 
+================================================================
+
+estimation of RLs: 
+male subjects: no error 
+female subjects: no error 
+all subjects: no error 
+
+================================================================
+
+estimation of P-Values for statistical test: 
+not done 
+================================================================
+
+estimation of confidence interval: 
+not done 
+R_program2 finished
